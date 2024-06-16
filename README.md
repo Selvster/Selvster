@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=36&pause=1000&color=2AA889&center=true&vCenter=true&width=450&lines=It's+Mazen+Amir)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Ubuntu+Mono&size=36&pause=1000&color=2AA889&center=true&vCenter=true&width=450&lines=Hello,+It's+Mazen+Amir)](https://git.io/typing-svg)
 
 [![portfolio](https://img.shields.io/badge/portfolio-000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-mohammed-shousha.vercel.app/)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-m-shousha/)
