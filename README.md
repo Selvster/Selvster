@@ -53,11 +53,20 @@ _**Tools**_
 [![TeachEnvo](https://img.shields.io/badge/TeachEnvo-0D6EFD?style=for-the-badge&logo=About.me&logoColor=white)](https://teachenvo.mazenamir.com/)
 
 
-TeachEnvo is a platform where teachers can easily organize their students and create online mcq quizes. Visit [TeachEnvo Documention](https://mazenamir.com/teachenvo-documention) for documention.
+TeachEnvo is a quizes platform where teachers can easily organize their students in groups and create online mcq quizes. Visit [TeachEnvo Documention](https://mazenamir.com/teachenvo-documention) for documention.
 
 #### Demo Accounts
 
 <table><thead><tr><td>Username</td><td>Password</td><td>Role</td></tr></thead><tbody><tr><td>Teacher</td><td>teacher1234</td><td>Teacher</td></tr><tr><td>Student</td><td>student1234</td><td>Student</td></tr></tbody></table>
+
+[![Portchatrooms](https://img.shields.io/badge/PortChatRooms-0D6EFD?style=for-the-badge&logo=About.me&logoColor=white)](https://portchatrooms.mazenamir.com/)
+
+
+Portchatrooms is a chat platform where users can make public or private rooms. Visit [Portchatrooms Documention](https://mazenamir.com/portchatrooms-documention) for documention.
+
+#### Demo Accounts
+
+<table><thead><tr><td>Username</td><td>Password</td></tr></thead><tbody><tr><td>User1</td><td>usera1b2</td></tr><tr><td>User2</td><td>usera2b1</td></tr></tbody></table>
 
 
 ## Stats 📊
