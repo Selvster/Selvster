@@ -53,7 +53,7 @@ _**Tools**_
 [![TeachEnvo](https://img.shields.io/badge/TeachEnvo-0D6EFD?style=for-the-badge&logo=About.me&logoColor=white)](https://teachenvo.mazenamir.com/)
 
 
-TeachEnvo is a quizes platform where teachers can easily organize their students in groups and create online mcq quizes. Visit [TeachEnvo Documention](https://mazenamir.com/teachenvo-documentation) for documentation.
+TeachEnvo is a quizes platform where teachers can easily organize their students in groups and create online mcq quizes. Visit [TeachEnvo Documentation](https://mazenamir.com/teachenvo-documentation) for documentation.
 
 #### Demo Accounts
 
@@ -62,7 +62,7 @@ TeachEnvo is a quizes platform where teachers can easily organize their students
 [![Portchatrooms](https://img.shields.io/badge/PortChatRooms-0D6EFD?style=for-the-badge&logo=About.me&logoColor=white)](https://portchatrooms.mazenamir.com/)
 
 
-Portchatrooms is a chat platform where users can make public or private rooms. Visit [Portchatrooms Documention](https://mazenamir.com/portchatrooms-documentation) for documentation.
+Portchatrooms is a chat platform where users can make public or private rooms. Visit [Portchatrooms Documentation](https://mazenamir.com/portchatrooms-documentation) for documentation.
 
 #### Demo Accounts
 
